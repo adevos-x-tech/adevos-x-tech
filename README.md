@@ -3,18 +3,14 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0033,70:3d0080,100:6600cc&height=280&section=header&text=ADEVOS-X%20TECH&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full-Stack%20Engineer%20%7C%20Bot%20Developer%20%7C%20Open%20Source&descAlignY=60&descAlign=50&descSize=17&animation=fadeIn&stroke=9933ff&strokeWidth=3" width="100%"/>
 
-</div>
-
-<div align="center">
-
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=9933FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+tools+that+actually+ship.;WhatsApp+Bots+%7C+Hosting+%7C+APIs+%7C+Automation;Full-Stack+Engineer+from+Tanzania+%F0%9F%87%B9%F0%9F%87%BF;Adevos-X+Tech+%E2%80%94+Where+code+meets+purpose." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=9933FF&center=true&vCenter=true&width=700&height=45&lines=Building+tools+that+actually+ship.;WhatsApp+Bots+%7C+Hosting+%7C+APIs+%7C+Automation;Full-Stack+Engineer+from+Tanzania;Adevos-X+Tech+%E2%80%94+Where+code+meets+purpose." />
 </a>
 
 <br/><br/>
 
-<!-- BADGES ROW 1 -->
+<!-- DYNAMIC BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=adevos-x-tech&label=Profile+Views&color=9933ff&style=for-the-badge)](https://github.com/adevos-x-tech)
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/adevos-x-tech?label=Followers&style=for-the-badge&color=6600cc&labelColor=1a0033)](https://github.com/adevos-x-tech?tab=followers)
@@ -23,12 +19,11 @@
 
 <br/>
 
-<!-- BADGES ROW 2 -->
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&labelColor=0d0d0d)
 &nbsp;
 ![Focus](https://img.shields.io/badge/Focus-Bots%20%7C%20APIs%20%7C%20Hosting-9933ff?style=flat-square&labelColor=0d0d0d)
 &nbsp;
-![Location](https://img.shields.io/badge/Tanzania-Dar%20es%20Salaam-blue?style=flat-square&labelColor=0d0d0d)
+![Location](https://img.shields.io/badge/Tanzania-Dar%20es%20Salaam-1a6bbf?style=flat-square&labelColor=0d0d0d)
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript%2096%25-F7DF1E?style=flat-square&labelColor=0d0d0d)
 
@@ -83,7 +78,7 @@
 
 I'm a **full-stack engineer** based in **Dar es Salaam, Tanzania** — building production-ready automation tools, WhatsApp bots, hosting platforms, and developer APIs. Everything I build is **live and in active use**.
 
-I focus on real-world impact: tools that communities and developers across Africa rely on daily. No half-finished demos — only shipped products.
+I focus on real-world impact: tools that developers across Africa rely on daily. No half-finished demos — only shipped products.
 
 <details>
 <summary><b>View Repositories at a Glance</b></summary>
@@ -149,7 +144,7 @@ I focus on real-world impact: tools that communities and developers across Afric
 
 <img src="https://github-readme-stats.vercel.app/api?username=adevos-x-tech&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=9933ff&icon_color=cc66ff&text_color=cccccc&bg_color=0d0d0d" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adevos-x-tech&theme=github-dark-blue&hide_border=true&ring=9933ff&fire=cc66ff&currStreakLabel=cc66ff&background=0d0d0d&sideLabels=cccccc&dates=888888&sideNums=9933ff" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=adevos-x-tech&theme=github-dark-blue&hide_border=true&ring=9933ff&fire=cc66ff&currStreakLabel=cc66ff&background=0d0d0d&sideLabels=cccccc&dates=888888&sideNums=9933ff" height="175"/>
 
 <br/><br/>
 
@@ -171,11 +166,33 @@ I focus on real-world impact: tools that communities and developers across Afric
 
 ---
 
-## GITHUB TROPHIES
+## GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adevos-x-tech&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=9933ff&text_color=cccccc&bg_color=0d0d0d&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<!-- TROPHIES — updates automatically as you earn more -->
+<img src="https://github-profile-trophy.vercel.app/?username=adevos-x-tech&theme=darkhub&no-frame=true&column=7&margin-w=12&margin-h=12" width="100%"/>
+
+<br/><br/>
+
+<!-- HOW TO EARN MORE — collapsible so it stays clean -->
+<details>
+<summary><b>How to unlock more achievements</b></summary>
+<br/>
+
+| Achievement | Requirement |
+|-------------|-------------|
+| **Starstruck** | Get 16+ stars on a single repository |
+| **Pull Shark** | Merge pull requests (x2, x4, x8...) |
+| **YOLO** | Merge a pull request without a review |
+| **Quickdraw** | Close an issue or PR within 5 minutes of opening |
+| **Pair Extraordinaire** | Co-author commits with another developer |
+| **Galaxy Brain** | Get upvoted answers on GitHub Discussions |
+| **Public Sponsor** | Sponsor another GitHub developer |
+
+> **Tip:** Your `adevosxbot` repo already has 4 stars and 12 forks. Getting to 16 stars unlocks **Starstruck**.
+
+</details>
 
 </div>
 
