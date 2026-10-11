@@ -12,42 +12,42 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 About Me
+###  About Me
 
 - 🔭 Building **modern web apps** and **smart communication bots**
-- 🌐 My website: **[host.adevosxtech.site](https://host.adevosxtech.site)**
-- 🌱 Always learning new things and improving my craft
-- 👨‍💻 All projects available at **[GitHub](https://github.com/adevos-x-tech?tab=repositories)**
-- 💬 Ask me about **JavaScript, Node.js, Databases, Automation, Bots**
-- ⚡ Fun fact: **I love automating everything!**
-- 🎯 Goals: **Contributing more to Open Source projects & building smarter automation tools**
+-  My website: **[minbot.adevosxtech.site](https://minbot.adevosxtech.site)**
+-  Always learning new things and improving my craft
+-  All projects available at **[GitHub](https://github.com/adevos-x-tech?tab=repositories)**
+-  Ask me about **JavaScript, Node.js, Databases, Automation, Bots**
+-  Fun fact: **I love automating everything!**
+-  Goals: **Contributing more to Open Source projects & building smarter automation tools**
 
 <br clear="both">
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech with Music 🎶 
 
 <div align="center">
 
-### 🌐 Frontend
+###  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Development
+###  Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🤖 Automation & Bots
+###  Automation & Bots
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -55,11 +55,11 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 <div align="center">
 
-  ### 🚀 **Adevos X Tech - Modern Web Apps & Smart Communication Bots**
+  ###  **Adevos X Tech - Modern Web Apps & Smart Communication Bots**
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adevos-x-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
@@ -90,7 +90,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adevos-x-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
@@ -98,7 +98,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -116,7 +116,7 @@
 
 ---
 
-## 🎯 Development Focus Areas
+##  Development Focus Areas
 
 <div align="center">
 
