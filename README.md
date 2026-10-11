@@ -1,259 +1,151 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0033,70:3d0080,100:6600cc&height=280&section=header&text=ADEVOS-X%20TECH&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full-Stack%20Engineer%20%7C%20Bot%20Developer%20%7C%20Open%20Source&descAlignY=60&descAlign=50&descSize=17&animation=fadeIn&stroke=9933ff&strokeWidth=3" width="100%"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=adevos-x-tech&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/adevos-x-tech?logo=github&style=for-the-badge&color=0e75b6)
+  ![GitHub User's stars](https://img.shields.io/github/stars/adevos-x-tech?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=0e75b6)
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=9933FF&center=true&vCenter=true&width=700&height=45&lines=Building+tools+that+actually+ship.;WhatsApp+Bots+%7C+Hosting+%7C+APIs+%7C+Automation;Full-Stack+Engineer+from+Tanzania;Adevos-X+Tech+%E2%80%94+Where+code+meets+purpose." />
-</a>
-
-<br/><br/>
-
-<!-- DYNAMIC BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=adevos-x-tech&label=Profile+Views&color=9933ff&style=for-the-badge)](https://github.com/adevos-x-tech)
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/adevos-x-tech?label=Followers&style=for-the-badge&color=6600cc&labelColor=1a0033)](https://github.com/adevos-x-tech?tab=followers)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/adevos-x-tech?label=Total+Stars&style=for-the-badge&color=9933ff&labelColor=1a0033)](https://github.com/adevos-x-tech)
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&labelColor=0d0d0d)
-&nbsp;
-![Focus](https://img.shields.io/badge/Focus-Bots%20%7C%20APIs%20%7C%20Hosting-9933ff?style=flat-square&labelColor=0d0d0d)
-&nbsp;
-![Location](https://img.shields.io/badge/Tanzania-Dar%20es%20Salaam-1a6bbf?style=flat-square&labelColor=0d0d0d)
-&nbsp;
-![JavaScript](https://img.shields.io/badge/Code-JavaScript%2096%25-F7DF1E?style=flat-square&labelColor=0d0d0d)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Adevos+X;Full+Stack+Developer;Automation+Specialist;Building+Smart+Communication+Bots;Problem+Solver+%26+Code+Enthusiast!" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## LIVE PRODUCTS
+### 🚀 About Me
 
-<br/>
+- 🔭 Building **modern web apps** and **smart communication bots**
+- 🌐 My website: **[host.adevosxtech.site](https://host.adevosxtech.site)**
+- 🌱 Always learning new things and improving my craft
+- 👨‍💻 All projects available at **[GitHub](https://github.com/adevos-x-tech?tab=repositories)**
+- 💬 Ask me about **JavaScript, Node.js, Databases, Automation, Bots**
+- ⚡ Fun fact: **I love automating everything!**
+- 🎯 Goals: **Contributing more to Open Source projects & building smarter automation tools**
 
-<table>
-<tr>
-<td align="center">
-<a href="https://host.adevosxtech.site">
-<img src="https://img.shields.io/badge/%20%20BOT%20HOSTING-9933FF?style=for-the-badge&logoColor=white&logo=serverfault" height="32"/><br/>
-<sub><code>host.adevosxtech.site</code></sub><br/>
-<sub>WhatsApp Bot Hosting Platform</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://pair.adevosxtech.com">
-<img src="https://img.shields.io/badge/%20%20PAIR%20SITE-0099FF?style=for-the-badge&logoColor=white&logo=whatsapp" height="32"/><br/>
-<sub><code>pair.adevosxtech.com</code></sub><br/>
-<sub>WhatsApp Pairing Portal</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://obfuscator.adevosxtech.site">
-<img src="https://img.shields.io/badge/%20%20OBFUSCATOR-CC0066?style=for-the-badge&logoColor=white&logo=shield" height="32"/><br/>
-<sub><code>obfuscator.adevosxtech.site</code></sub><br/>
-<sub>JS Code Protection Engine</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://minbot.adevosxtech.site">
-<img src="https://img.shields.io/badge/%20%20MIN%20BOT-009966?style=for-the-badge&logoColor=white&logo=probot" height="32"/><br/>
-<sub><code>minbot.adevosxtech.site</code></sub><br/>
-<sub>Minimal WhatsApp Bot</sub>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
+<br clear="both">
 
 ---
 
-## ABOUT
-
-I'm a **full-stack engineer** based in **Dar es Salaam, Tanzania** — building production-ready automation tools, WhatsApp bots, hosting platforms, and developer APIs. Everything I build is **live and in active use**.
-
-I focus on real-world impact: tools that developers across Africa rely on daily. No half-finished demos — only shipped products.
-
-<details>
-<summary><b>View Repositories at a Glance</b></summary>
-<br/>
-
-| Repository | Description | Language | Stars |
-|-----------|-------------|----------|-------|
-| [adevosxbot](https://github.com/adevos-x-tech/adevosxbot) | Ultra-Fast Multi-Device WhatsApp Automation Bot | JavaScript | ![stars](https://img.shields.io/github/stars/adevos-x-tech/adevosxbot?style=flat-square&color=9933ff) |
-| [pair-site](https://github.com/adevos-x-tech/pair-site) | WhatsApp Pairing Portal | HTML | ![stars](https://img.shields.io/github/stars/adevos-x-tech/pair-site?style=flat-square&color=9933ff) |
-| [obfuscator](https://github.com/adevos-x-tech/obfuscator) | Advanced Code Protection Engine | TypeScript | ![stars](https://img.shields.io/github/stars/adevos-x-tech/obfuscator?style=flat-square&color=9933ff) |
-| [min-bot](https://github.com/adevos-x-tech/min-bot) | Minimal WhatsApp Bot | JavaScript | ![stars](https://img.shields.io/github/stars/adevos-x-tech/min-bot?style=flat-square&color=9933ff) |
-| [adevosxtechwebsite](https://github.com/adevos-x-tech/adevosxtechwebsite) | Backend & Frontend Repository | HTML | ![stars](https://img.shields.io/github/stars/adevos-x-tech/adevosxtechwebsite?style=flat-square&color=9933ff) |
-
-</details>
-
----
-
-## TECH STACK
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend & Runtime**
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Baileys](https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🔧 Tools & Development
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🤖 Automation & Bots
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ---
 
-## GITHUB STATS
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adevos-x-tech&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=9933ff&icon_color=cc66ff&text_color=cccccc&bg_color=0d0d0d" height="175"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=adevos-x-tech&theme=github-dark-blue&hide_border=true&ring=9933ff&fire=cc66ff&currStreakLabel=cc66ff&background=0d0d0d&sideLabels=cccccc&dates=888888&sideNums=9933ff" height="175"/>
+  ### 🚀 **Adevos X Tech - Modern Web Apps & Smart Communication Bots**
 
-<br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevos-x-tech&layout=compact&theme=github_dark&hide_border=true&title_color=9933ff&text_color=cccccc&bg_color=0d0d0d&langs_count=8&count_private=true" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adevos-x-tech&theme=github_dark&utcOffset=3" height="150"/>
+  **Currently building:**
+
+  ✨ **Modern Web Apps** | 🤖 **Smart Bots** | 🔄 **Automation**
+
+  🚀 **High Performance** | 🗄️ **Solid Databases** | 🌐 **Clean Code**
 
 </div>
 
 ---
 
-## CONTRIBUTION GRAPH
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adevos-x-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adevos-x-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adevos-x-tech&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adevos-x-tech&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adevos-x-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adevos-x-tech&theme=github-compact&bg_color=0d0d0d&color=9933ff&line=6600cc&point=cc66ff&area=true&area_color=3d0080&hide_border=true&custom_title=Adevos-X%20Tech%20%E2%80%94%20Contribution%20Activity" width="100%"/>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adevostech@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://host.adevosxtech.site)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/adevosX)
+
+  <br>
+
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@adevosx)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adevos_X)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adevosxtech)
 
 </div>
 
 ---
 
-## GITHUB ACHIEVEMENTS
+## 🎯 Development Focus Areas
 
 <div align="center">
 
-<!-- TROPHIES — updates automatically as you earn more -->
-<img src="https://github-profile-trophy.vercel.app/?username=adevos-x-tech&theme=darkhub&no-frame=true&column=7&margin-w=12&margin-h=12" width="100%"/>
-
-<br/><br/>
-
-<!-- HOW TO EARN MORE — collapsible so it stays clean -->
-<details>
-<summary><b>How to unlock more achievements</b></summary>
-<br/>
-
-| Achievement | Requirement |
-|-------------|-------------|
-| **Starstruck** | Get 16+ stars on a single repository |
-| **Pull Shark** | Merge pull requests (x2, x4, x8...) |
-| **YOLO** | Merge a pull request without a review |
-| **Quickdraw** | Close an issue or PR within 5 minutes of opening |
-| **Pair Extraordinaire** | Co-author commits with another developer |
-| **Galaxy Brain** | Get upvoted answers on GitHub Discussions |
-| **Public Sponsor** | Sponsor another GitHub developer |
-
-> **Tip:** Your `adevosxbot` repo already has 4 stars and 12 forks. Getting to 16 stars unlocks **Starstruck**.
-
-</details>
+```mermaid
+pie title My Development Time Distribution
+    "Backend & APIs" : 35
+    "Bots & Automation" : 30
+    "Databases" : 20
+    "Frontend" : 15
+```
 
 </div>
 
 ---
 
-## SKILLS OVERVIEW
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,postgres,mongodb,mysql,nginx,docker,linux,html,css,tailwind,vite,aws,git,github,bash,redis&theme=dark&perline=10" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-</div>
+  ### 💭 Quote of the Day
 
----
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
-## WORK WITH ME
+  ---
 
-I am available for:
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House 💻✨
 
-- **Freelance** — WhatsApp bot development, REST APIs, Node.js backends, automation systems, M-Pesa integrations
-- **Collaboration** — Open-source projects, bot frameworks, hosting infrastructure
-- **Junior / Mid roles** — Full-stack engineering, backend infrastructure, developer tooling
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
-> If you are building something real and need an engineer who ships — let us talk.
-
----
-
-## CONNECT
-
-<div align="center">
-
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-@adevosxtech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adevosxtech)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-@Adevos__X-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adevos_X)
-&nbsp;
-[![TikTok](https://img.shields.io/badge/TikTok-@adevosx-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@adevosx)
-
-<br/>
-
-[![Facebook](https://img.shields.io/badge/Facebook-adevosX-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adevosX)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-adevostech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adevostech@gmail.com)
-&nbsp;
-[![Hosting](https://img.shields.io/badge/Hosting-host.adevosxtech.site-9933FF?style=for-the-badge&logo=serverfault&logoColor=white)](https://host.adevosxtech.site)
-
-<br/><br/>
-
----
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20tools%20that%20actually%20ship.&author=Adevos-X%20Tech" width="600"/>
-
-<br/><br/>
-
-*Powered by **Adevos-X Tech** — Tanzanian Developer*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600cc,40:3d0080,70:1a0033,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <sub>© 2026 adevos-x-tech - Crafted with ❤️ and lots of ☕</sub>
 
 </div>
